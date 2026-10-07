@@ -1,0 +1,3 @@
+{
+  "question": "<div class=\"TiMu\" id=\"question100\"><div class=\"Zy_TItle\">【单选题】虚构选项顺序测试</div><ul class=\"Zy_ulTop\"><li role=\"radio\" qid=\"100\" qtype=\"0\"><span class=\"num_option\" data=\"D\">A</span><a>选项 A</a></li><li role=\"radio\" qid=\"100\" qtype=\"0\"><span class=\"num_option\" data=\"C\">B</span><a>选项 B</a></li><li role=\"radio\" qid=\"100\" qtype=\"0\"><span class=\"num_option\" data=\"B\">C</span><a>选项 C</a></li><li role=\"radio\" qid=\"100\" qtype=\"0\"><span class=\"num_option\" data=\"A\">D</span><a>选项 D</a></li></ul><input id=\"answer100\" type=\"hidden\" value=\"\"></div>"
+}

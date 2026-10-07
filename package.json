@@ -1,0 +1,18 @@
+{
+  "name": "baka-helper",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Baka助手：学习通学习辅助、AI 接口与本地正确答案题库",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "npm run build && node --check baka-helper.user.js && node tests/test.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "30.1.1"
+  }
+}
